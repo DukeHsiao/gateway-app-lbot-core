@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Export-Package: org.springframework.integration.jms;version="2.0.3.REL
+ EASE";uses:="javax.jms,org.springframework.beans.factory,org.springfr
+ amework.context,org.springframework.integration,org.springframework.i
+ ntegration.channel,org.springframework.integration.context,org.spring
+ framework.integration.core,org.springframework.integration.dispatcher
+ ,org.springframework.integration.endpoint,org.springframework.integra
+ tion.gateway,org.springframework.integration.handler,org.springframew
+ ork.integration.mapping,org.springframework.jms.core,org.springframew
+ ork.jms.listener,org.springframework.jms.support.converter,org.spring
+ framework.jms.support.destination",org.springframework.integration.jm
+ s.config;version="2.0.3.RELEASE";uses:="javax.jms,org.springframework
+ .beans,org.springframework.beans.factory,org.springframework.beans.fa
+ ctory.config,org.springframework.beans.factory.support,org.springfram
+ ework.beans.factory.xml,org.springframework.context,org.springframewo
+ rk.integration.config.xml,org.springframework.integration.jms,org.spr
+ ingframework.jms.support.converter,org.springframework.jms.support.de
+ stination,org.springframework.transaction,org.springframework.util,or
+ g.w3c.dom"
+Bundle-Vendor: SpringSource
+Bundle-Version: 2.0.3.RELEASE
+Tool: Bundlor 1.0.0.RELEASE
+Bundle-Name: Spring Integration JMS Support
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.springframework.integration.jms
+Import-Package: javax.jms;version="[1.1.0, 2.0.0)";resolution:="option
+ al",org.apache.commons.logging;version="[1.1.1, 2.0.0)",org.springfra
+ mework.beans;version="[3.0.5, 4.0.0)",org.springframework.beans.facto
+ ry;version="[3.0.5, 4.0.0)",org.springframework.beans.factory.config;
+ version="[3.0.5, 4.0.0)",org.springframework.beans.factory.parsing;ve
+ rsion="[3.0.5, 4.0.0)",org.springframework.beans.factory.support;vers
+ ion="[3.0.5, 4.0.0)",org.springframework.beans.factory.xml;version="[
+ 3.0.5, 4.0.0)",org.springframework.context;version="[3.0.5, 4.0.0)",o
+ rg.springframework.integration;version="[2.0.3, 2.0.4)",org.springfra
+ mework.integration.channel;version="[2.0.3, 2.0.4)",org.springframewo
+ rk.integration.config.xml;version="[2.0.3, 2.0.4)",org.springframewor
+ k.integration.context;version="[2.0.3, 2.0.4)",org.springframework.in
+ tegration.core;version="[2.0.3, 2.0.4)",org.springframework.integrati
+ on.dispatcher;version="[2.0.3, 2.0.4)",org.springframework.integratio
+ n.endpoint;version="[2.0.3, 2.0.4)",org.springframework.integration.g
+ ateway;version="[2.0.3, 2.0.4)",org.springframework.integration.handl
+ er;version="[2.0.3, 2.0.4)",org.springframework.integration.mapping;v
+ ersion="[2.0.3, 2.0.4)",org.springframework.integration.support;versi
+ on="[2.0.3, 2.0.4)",org.springframework.jms.connection;version="[3.0.
+ 5, 4.0.0)",org.springframework.jms.core;version="[3.0.5, 4.0.0)",org.
+ springframework.jms.listener;version="[3.0.5, 4.0.0)",org.springframe
+ work.jms.support;version="[3.0.5, 4.0.0)",org.springframework.jms.sup
+ port.converter;version="[3.0.5, 4.0.0)",org.springframework.jms.suppo
+ rt.destination;version="[3.0.5, 4.0.0)",org.springframework.transacti
+ on;version="[3.0.5, 4.0.0)",org.springframework.util;version="[3.0.5,
+  4.0.0)",org.w3c.dom;version="0"
+

@@ -1,0 +1,13 @@
+!!com.systex.jbranch.host.message.TxRespMsg
+children:
+- {
+  childId: child01,
+  childMsg: msg1
+}
+- {
+  childId: child02,
+  childMsg: msg2
+}
+result: success
+status: A01
+txId: '0001'

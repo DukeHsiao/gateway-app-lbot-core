@@ -1,0 +1,5 @@
+!!com.systex.jbranch.host.message.TxRespMsg {
+  result: success,
+  status: A01,
+  txId: '0001'
+}
